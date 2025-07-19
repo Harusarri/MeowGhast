@@ -2,7 +2,7 @@
 
 The Happy Ghast, but much cuter!
 
-This resource pack makes the default Happy Ghast even cuter.
+This resource pack makes the Happy Ghast even cuter.
 Enjoy a ghast with adorable cat ears and a cheerful expression!
 
 <img width="1920" height="1081" alt="2025-07-18_18 46 23" src="https://github.com/user-attachments/assets/72b08291-72e6-4912-b460-dabf0ebee5f7" />
